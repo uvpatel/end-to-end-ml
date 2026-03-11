@@ -58,3 +58,25 @@ Incresing features model get confuse so perfomance get decrese
 -> convert into lower dim
 
 
+## Features  selection VS Features Extraction
+
+1) Why Dimensionality Reduction
+- Prevent -> Curse of Dimensinality
+- improve the performance of the model
+- Visualize the data -> understand the data
+
+
+
+Features Selection
+X Y   X(inc) y (incre)
+- -    X(decr) y (dcr)
+- - 
+- - 
+- - 
+- - 
+
+
+linear relation ship
+
+
+
