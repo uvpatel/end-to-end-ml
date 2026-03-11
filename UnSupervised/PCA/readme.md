@@ -28,3 +28,33 @@ Acc5
 
 
 if features given more M5 
+
+
+2) Model Preformace Degrade
+
+
+School <- INC
+
+
+<!-- Person - Con -->
+
+Train with m
+curse of dimensinality
+
+
+Two diff ways to remove curse of dimensanality
+- feature selection <= imp features
+- PCA (dimensinality reduction)
+
+Features Extraction
+
+f1 f2 f3 o/p
+
+D1 D2 O/P
+
+
+Incresing features model get confuse so perfomance get decrese
+
+-> convert into lower dim
+
+
